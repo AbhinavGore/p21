@@ -40,7 +40,7 @@ function setup() {
 function draw() {
   rectMode(CENTER);
   background(0);
-  groundObj.display()
+  groundObj.show()
   drawSprites();
  
 }
